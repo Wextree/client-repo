@@ -10,5 +10,5 @@ spring:
 env: dev
 
 girl:
-  name: lili
-  age: 18
+  name: wex
+  age: 20
