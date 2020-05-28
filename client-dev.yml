@@ -8,3 +8,7 @@ spring:
     name: client
         
 env: dev
+
+girl:
+  name: lili
+  age: 18
