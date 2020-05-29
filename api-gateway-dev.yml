@@ -19,3 +19,5 @@ management:
   endpoint:
     routes:
       enabled: true # 默认为true，可以省略
+      
+env: dev
